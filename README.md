@@ -2,13 +2,15 @@
 
 # EUREKA home page
 
+![eureka homepage](https://github.com/NEOLabs-software/EUREKA-home-page/assets/101670923/6a3ca4eb-2577-4169-b1b9-ffb9cb7667eb)
+
 the EUREKA home page is a super customizable homepage that works in any linux rice.
 
 ## usage
 
 if you want the vannila experiance, then set the homepage in your browser to the following link 
 ```
-
+https://neolabs-software.github.io/EUREKA-home-page/
 ```
 
 if you want to customize, then follow the steps in [this section](#customize) 
@@ -52,3 +54,9 @@ the files have comments to help guide you through customizing the home page
 > it is recomended for you to know a bit of basic html and css, **DO NOT MESS WITH THE JAVASCRIPT**
 
 after you finish, copy the full path of ```index.html``` and change your home page to the path
+
+### credits
+
+**created by NEOLabs-software**
+
+![neolabs](https://github.com/NEOLabs-software/example-form-html/assets/101670923/7acb51d9-c48f-470a-9473-981358fb4865)
