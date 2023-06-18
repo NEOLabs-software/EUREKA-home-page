@@ -1,0 +1,53 @@
+@keyframes zoom-in {
+  0% {
+    transform: scale(0);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+h1 {
+  color: rgba(255, 255, 255, 0.4);
+  text-align: center;
+}
+
+p {
+  font-family: 'Titillium Web';font-size: 22px;
+  font-size: 20px;
+}
+body {
+  background-image: url("img/background.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100hv;
+  background-repeat: no-repeat;
+	background-position: center top;
+	padding: 0;
+  font-family: 'Titillium Web';font-size: 22px;
+  overflow-x: hidden;
+  animation: zoom-in 1s ease forwards;
+}
+.links {
+  text-align:center;
+  padding-top: 15px;
+  padding-right: 30px;
+  padding-bottom: 20px;
+  padding-left: 80px;
+}
+.custom-link {
+  text-decoration: none;  color: rgba(0, 0, 0, 0.8);
+  transition: color 0.3s ease, font-size 0.3s ease;
+}
+
+.custom-link:hover {
+  color: blue;   font-size: 28px;
+}
+.custom-link .emoji {
+  color: blue;
+}
+.fantasy-font {
+  color: rgba(0,50,250,9)
+}
