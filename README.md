@@ -2,6 +2,8 @@
 
 # EUREKA home page
 
+![eureka homepage](https://github.com/NEOLabs-software/EUREKA-home-page/assets/101670923/6a3ca4eb-2577-4169-b1b9-ffb9cb7667eb)
+
 the EUREKA home page is a super customizable homepage that works in any linux rice.
 
 ## usage
