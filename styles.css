@@ -1,3 +1,4 @@
+/*animation*/
 @keyframes zoom-in {
   0% {
     transform: scale(0);
@@ -8,6 +9,7 @@
     opacity: 1;
   }
 }
+/*text customizations*/
 h1 {
   color: rgba(255, 255, 255, 0.4);
   text-align: center;
@@ -17,6 +19,7 @@ p {
   font-family: 'Titillium Web';font-size: 22px;
   font-size: 20px;
 }
+/*body*/
 body {
   background-image: url("img/background.jpg");
   background-size: cover;
@@ -30,6 +33,7 @@ body {
   overflow-x: hidden;
   animation: zoom-in 1s ease forwards;
 }
+/*links*/
 .links {
   text-align:center;
   padding-top: 15px;
@@ -48,6 +52,7 @@ body {
 .custom-link .emoji {
   color: blue;
 }
+/*clock color*/
 .fantasy-font {
   color: rgba(0,50,50,9)
 }
