@@ -52,3 +52,9 @@ the files have comments to help guide you through customizing the home page
 > it is recomended for you to know a bit of basic html and css, **DO NOT MESS WITH THE JAVASCRIPT**
 
 after you finish, copy the full path of ```index.html``` and change your home page to the path
+
+### credits
+
+**created by NEOLabs-software**
+
+![neolabs](https://github.com/NEOLabs-software/example-form-html/assets/101670923/7acb51d9-c48f-470a-9473-981358fb4865)
