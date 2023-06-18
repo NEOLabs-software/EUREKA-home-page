@@ -8,7 +8,7 @@ the EUREKA home page is a super customizable homepage that works in any linux ri
 
 if you want the vannila experiance, then set the homepage in your browser to the following link 
 ```
-
+https://neolabs-software.github.io/EUREKA-home-page/
 ```
 
 if you want to customize, then follow the steps in [this section](#customize) 
