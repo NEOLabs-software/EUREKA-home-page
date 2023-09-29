@@ -21,7 +21,7 @@ p {
 }
 /*body*/
 body {
-  background-image: url("img/background.jpg");
+  background-image: url("./background.jpg");
   background-size: cover;
   background-position: center;
   width: 100%;
